@@ -19,6 +19,8 @@
 		8B5D650E291053110034F5AE /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B5D650B291053110034F5AE /* Inter-Regular.ttf */; };
 		8B5D650F291053110034F5AE /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B5D650C291053110034F5AE /* Poppins-Bold.ttf */; };
 		8B5D6510291053110034F5AE /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B5D650D291053110034F5AE /* Inter-SemiBold.ttf */; };
+		8B5D6512291053720034F5AE /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5D6511291053720034F5AE /* CustomTextField.swift */; };
+		8B5D6514291053920034F5AE /* SingInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5D6513291053920034F5AE /* SingInView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +37,8 @@
 		8B5D650B291053110034F5AE /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
 		8B5D650C291053110034F5AE /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		8B5D650D291053110034F5AE /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		8B5D6511291053720034F5AE /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		8B5D6513291053920034F5AE /* SingInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingInView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 				8B1B2663290857D80008AA16 /* RiveAssets */,
 				8B1B265B29082FC70008AA16 /* Preview Content */,
 				8B5D6508291052CD0034F5AE /* CustomFont.swift */,
+				8B5D6511291053720034F5AE /* CustomTextField.swift */,
+				8B5D6513291053920034F5AE /* SingInView.swift */,
 			);
 			path = Cursus;
 			sourceTree = "<group>";
@@ -193,6 +199,8 @@
 				8B5D6509291052CD0034F5AE /* CustomFont.swift in Sources */,
 				8B1B265729082FC60008AA16 /* ContentView.swift in Sources */,
 				8B1B265529082FC60008AA16 /* CursusApp.swift in Sources */,
+				8B5D6514291053920034F5AE /* SingInView.swift in Sources */,
+				8B5D6512291053720034F5AE /* CustomTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
