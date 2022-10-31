@@ -74,6 +74,7 @@
 		8B1B265329082FC60008AA16 /* Cursus */ = {
 			isa = PBXGroup;
 			children = (
+				8B5D6517291054300034F5AE /* Styles */,
 				8B1B2667290858560008AA16 /* Views */,
 				8B1B265429082FC60008AA16 /* CursusApp.swift */,
 				8B1B265629082FC60008AA16 /* ContentView.swift */,
@@ -82,10 +83,6 @@
 				8B5D650A291053110034F5AE /* Fonts */,
 				8B1B2663290857D80008AA16 /* RiveAssets */,
 				8B1B265B29082FC70008AA16 /* Preview Content */,
-				8B5D6508291052CD0034F5AE /* CustomFont.swift */,
-				8B5D6511291053720034F5AE /* CustomTextField.swift */,
-				8B5D6513291053920034F5AE /* SingInView.swift */,
-				8B5D6515291053FC0034F5AE /* Extensions.swift */,
 			);
 			path = Cursus;
 			sourceTree = "<group>";
@@ -103,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				8B1B2668290858860008AA16 /* OnboardingView.swift */,
+				8B5D6513291053920034F5AE /* SingInView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -115,6 +113,16 @@
 				8B5D650D291053110034F5AE /* Inter-SemiBold.ttf */,
 			);
 			path = Fonts;
+			sourceTree = "<group>";
+		};
+		8B5D6517291054300034F5AE /* Styles */ = {
+			isa = PBXGroup;
+			children = (
+				8B5D6511291053720034F5AE /* CustomTextField.swift */,
+				8B5D6515291053FC0034F5AE /* Extensions.swift */,
+				8B5D6508291052CD0034F5AE /* CustomFont.swift */,
+			);
+			path = Styles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
