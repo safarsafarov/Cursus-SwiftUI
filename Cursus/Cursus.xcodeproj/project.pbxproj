@@ -22,6 +22,7 @@
 		8B5D6512291053720034F5AE /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5D6511291053720034F5AE /* CustomTextField.swift */; };
 		8B5D6514291053920034F5AE /* SingInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5D6513291053920034F5AE /* SingInView.swift */; };
 		8B5D6516291053FC0034F5AE /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5D6515291053FC0034F5AE /* Extensions.swift */; };
+		8BCF34B12918176D00A4B534 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34B02918176D00A4B534 /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		8B5D6511291053720034F5AE /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		8B5D6513291053920034F5AE /* SingInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingInView.swift; sourceTree = "<group>"; };
 		8B5D6515291053FC0034F5AE /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		8BCF34B02918176D00A4B534 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				8B5D650A291053110034F5AE /* Fonts */,
 				8B1B2663290857D80008AA16 /* RiveAssets */,
 				8B1B265B29082FC70008AA16 /* Preview Content */,
+				8BCF34B02918176D00A4B534 /* TabBar.swift */,
 			);
 			path = Cursus;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				8B1B2669290858860008AA16 /* OnboardingView.swift in Sources */,
 				8B5D6509291052CD0034F5AE /* CustomFont.swift in Sources */,
 				8B1B265729082FC60008AA16 /* ContentView.swift in Sources */,
+				8BCF34B12918176D00A4B534 /* TabBar.swift in Sources */,
 				8B1B265529082FC60008AA16 /* CursusApp.swift in Sources */,
 				8B5D6514291053920034F5AE /* SingInView.swift in Sources */,
 				8B5D6512291053720034F5AE /* CustomTextField.swift in Sources */,
