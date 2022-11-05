@@ -28,6 +28,7 @@
 		8BCF34B8291832FA00A4B534 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34B7291832FA00A4B534 /* Course.swift */; };
 		8BCF34BA2918333500A4B534 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34B92918333500A4B534 /* CourseSection.swift */; };
 		8BCF34BC2918337600A4B534 /* VCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34BB2918337600A4B534 /* VCard.swift */; };
+		8BCF34BE2918340500A4B534 /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34BD2918340500A4B534 /* SideMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		8BCF34B7291832FA00A4B534 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		8BCF34B92918333500A4B534 /* CourseSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSection.swift; sourceTree = "<group>"; };
 		8BCF34BB2918337600A4B534 /* VCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCard.swift; sourceTree = "<group>"; };
+		8BCF34BD2918340500A4B534 /* SideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				8BCF34B22918329500A4B534 /* HCard.swift */,
 				8BCF34BB2918337600A4B534 /* VCard.swift */,
 				8BCF34B02918176D00A4B534 /* TabBar.swift */,
+				8BCF34BD2918340500A4B534 /* SideMenu.swift */,
 				8B1B265829082FC70008AA16 /* Assets.xcassets */,
 				8B1B265A29082FC70008AA16 /* Cursus.entitlements */,
 				8B5D650A291053110034F5AE /* Fonts */,
@@ -235,6 +238,7 @@
 				8BCF34B32918329500A4B534 /* HCard.swift in Sources */,
 				8BCF34B8291832FA00A4B534 /* Course.swift in Sources */,
 				8B1B2669290858860008AA16 /* OnboardingView.swift in Sources */,
+				8BCF34BE2918340500A4B534 /* SideMenu.swift in Sources */,
 				8B5D6509291052CD0034F5AE /* CustomFont.swift in Sources */,
 				8BCF34BA2918333500A4B534 /* CourseSection.swift in Sources */,
 				8BCF34B5291832A500A4B534 /* HomeView.swift in Sources */,
