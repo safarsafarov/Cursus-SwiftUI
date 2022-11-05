@@ -27,6 +27,7 @@
 		8BCF34B5291832A500A4B534 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34B4291832A500A4B534 /* HomeView.swift */; };
 		8BCF34B8291832FA00A4B534 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34B7291832FA00A4B534 /* Course.swift */; };
 		8BCF34BA2918333500A4B534 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34B92918333500A4B534 /* CourseSection.swift */; };
+		8BCF34BC2918337600A4B534 /* VCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BCF34BB2918337600A4B534 /* VCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		8BCF34B4291832A500A4B534 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		8BCF34B7291832FA00A4B534 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		8BCF34B92918333500A4B534 /* CourseSection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseSection.swift; sourceTree = "<group>"; };
+		8BCF34BB2918337600A4B534 /* VCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				8B1B265629082FC60008AA16 /* ContentView.swift */,
 				8BCF34B4291832A500A4B534 /* HomeView.swift */,
 				8BCF34B22918329500A4B534 /* HCard.swift */,
+				8BCF34BB2918337600A4B534 /* VCard.swift */,
 				8BCF34B02918176D00A4B534 /* TabBar.swift */,
 				8B1B265829082FC70008AA16 /* Assets.xcassets */,
 				8B1B265A29082FC70008AA16 /* Cursus.entitlements */,
@@ -237,6 +240,7 @@
 				8BCF34B5291832A500A4B534 /* HomeView.swift in Sources */,
 				8B1B265729082FC60008AA16 /* ContentView.swift in Sources */,
 				8BCF34B12918176D00A4B534 /* TabBar.swift in Sources */,
+				8BCF34BC2918337600A4B534 /* VCard.swift in Sources */,
 				8B1B265529082FC60008AA16 /* CursusApp.swift in Sources */,
 				8B5D6514291053920034F5AE /* SingInView.swift in Sources */,
 				8B5D6512291053720034F5AE /* CustomTextField.swift in Sources */,
