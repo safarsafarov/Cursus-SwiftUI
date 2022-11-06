@@ -5,7 +5,7 @@
 //  Created by Safar Safarov on 25/10/22.
 //
 
-mport SwiftUI
+import SwiftUI
 import RiveRuntime
 
 struct ContentView: View {
